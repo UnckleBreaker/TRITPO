@@ -13,7 +13,7 @@
 ### 2.Знания по разработке приложения для системы Android
 ### 3.Системные требования
  Язык разработки Java.
- Используемые библиотеки :
+ Библиотеки , которые могут быть использованы : Creative View Pager
  Пользователь задаёт свой “свободный бюджет” на месяц .
  После каждой покупки он может регистрировать её.
  Также , каждый вечер будет всплывать подсказка с предложение добавить покупки.
@@ -28,6 +28,6 @@
 ### 1.Скорость работы
 ### 2.Актуальность подсказок
  ### Примеры готовых приложений
- ![screenshot of sample]
- ![screenshot of sample](https://avatars.mds.yandex.net/get-pdb/406349/037e1cc6-7223-48cc-94af-34abf2f343b0/s1200?webp=false)
+ ![screenshot of sample](https://f.sravni.ru/cms/Material/61.JPG)
+ ![screenshot of sample](https://lh3.googleusercontent.com/gF1Dl0jI-dhdoJ5_cAwpJzzq79jW0KwMO1ZJiVTwsTg5vYJkOjmDEaPF66ooF5CeHoE)
 
