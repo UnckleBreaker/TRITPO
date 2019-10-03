@@ -23,6 +23,6 @@
 ### 1.Скорость работы
 ### 2.Актуальность подсказок
  ### Примеры готовых приложений
- ![screenshot of sample](https://yandex.by/images/search?pos=6&from=tabbar&img_url=https%3A%2F%2Fs1.tchkcdn.com%2Fg-lswT7IC4pst3MzYMUwxNYQ%2F13%2F416962%2F660x0%2Fw%2F0%2F529719f6381cad257dc9c5047b92a443_finance_pm_expense_manager_10e492_h900.jpg&text=%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4&rpt=simage)
- ![screenshot of sample](https://yandex.by/images/search?pos=12&from=tabbar&img_url=http%3A%2F%2Fbaseapp.ru%2Fwp-content%2Fuploads%2F2015%2F10%2Fmenedjer-rashodov-budjet-skachat-besplatno-na-android1.jpg&text=%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4&rpt=simage)
+ ![screenshot of sample](<https://yandex.by/images/search?pos=6&from=tabbar&img_url=https%3A%2F%2Fs1.tchkcdn.com%2Fg-lswT7IC4pst3MzYMUwxNYQ%2F13%2F416962%2F660x0%2Fw%2F0%2F529719f6381cad257dc9c5047b92a443_finance_pm_expense_manager_10e492_h900.jpg&text=%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4&rpt=simage>)
+ ![screenshot of sample](<https://yandex.by/images/search?pos=12&from=tabbar&img_url=http%3A%2F%2Fbaseapp.ru%2Fwp-content%2Fuploads%2F2015%2F10%2Fmenedjer-rashodov-budjet-skachat-besplatno-na-android1.jpg&text=%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4&rpt=simage>)
 
