@@ -29,5 +29,5 @@
 ### 2.Актуальность подсказок
  ### Примеры готовых приложений
  ![screenshot of sample]
- ![screenshot of sample](<https://yandex.by/images/search?pos=12&from=tabbar&img_url=http%3A%2F%2Fbaseapp.ru%2Fwp-content%2Fuploads%2F2015%2F10%2Fmenedjer-rashodov-budjet-skachat-besplatno-na-android1.jpg&text=%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4&rpt=simage>)
+ ![screenshot of sample](https://avatars.mds.yandex.net/get-pdb/406349/037e1cc6-7223-48cc-94af-34abf2f343b0/s1200?webp=false)
 
